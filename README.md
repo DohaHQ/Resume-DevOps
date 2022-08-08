@@ -14,15 +14,15 @@ Student at Saudi Digital Academy DevOps BootCamp
 
 ### Specialized in
 
-Networking
-Linux
-AWS cloud & services 
-Iac 
-git
-ansible
+Networking,
+Linux,
+AWS cloud & services ,
+Iac ,
+git,
+ansible,
 jenkins, 
-monitoring
-docker 
+monitoring,
+docker .
 
 
 
